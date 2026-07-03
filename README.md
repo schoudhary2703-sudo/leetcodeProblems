@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0437-path-sum-iii) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -60,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0437-path-sum-iii) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0437-path-sum-iii) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
