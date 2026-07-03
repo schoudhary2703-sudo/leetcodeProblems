@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -74,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
