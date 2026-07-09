@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [1288-remove-covered-intervals](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3620-network-recovery-pathways](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1288-remove-covered-intervals) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
