@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
@@ -110,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Queue
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -174,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
