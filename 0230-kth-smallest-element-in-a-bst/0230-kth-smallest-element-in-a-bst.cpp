@@ -11,18 +11,28 @@
  */
 class Solution {
 private:
-    void makeArray(TreeNode *root,vector<int> &arr){
+    bool makeArray(TreeNode *root,int k,int &count,int &ans){
         if(root==nullptr){
-            return;
+            return false;
         }
-        makeArray(root->left,arr);
-        arr.push_back(root->val);
-        makeArray(root->right,arr);
+        if(makeArray(root->left,k,count,ans)){
+            return true;
+        }
+        count++;
+        if(count==k){
+            ans=root->val;
+            return true;
+        }
+        if(makeArray(root->right,k,count,ans)){
+            return true;
+        }
+        return false;
     }
 public:
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> sortedArray;
-        makeArray(root,sortedArray);
-        return sortedArray[k-1];
+        int count=0;
+        int ans=0;
+        makeArray(root,k,count,ans);
+        return ans;
     }
 };
