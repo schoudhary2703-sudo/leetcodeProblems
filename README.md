@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
