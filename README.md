@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0437-path-sum-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2685-count-the-number-of-complete-components) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
