@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2236-root-equals-sum-of-children) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2236-root-equals-sum-of-children) |
@@ -319,17 +322,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
