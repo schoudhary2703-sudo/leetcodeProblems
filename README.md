@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
+| [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
