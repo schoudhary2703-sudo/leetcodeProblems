@@ -408,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
