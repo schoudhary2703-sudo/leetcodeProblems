@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [1140-stone-game-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
