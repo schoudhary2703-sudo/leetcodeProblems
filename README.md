@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2685-count-the-number-of-complete-components) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
