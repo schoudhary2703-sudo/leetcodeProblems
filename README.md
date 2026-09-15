@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
