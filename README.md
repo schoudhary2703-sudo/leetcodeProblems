@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3310-remove-methods-from-project) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -493,4 +497,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
