@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0835-image-overlap) |
+| [0990-satisfiability-of-equality-equations](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1260-shift-2d-grid) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0990-satisfiability-of-equality-equations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3310-remove-methods-from-project) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
+| [0990-satisfiability-of-equality-equations](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0990-satisfiability-of-equality-equations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
