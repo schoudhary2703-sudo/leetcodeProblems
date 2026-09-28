@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
