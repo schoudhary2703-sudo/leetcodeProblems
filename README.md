@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [1140-stone-game-ii](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1140-stone-game-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
