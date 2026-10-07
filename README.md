@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/schoudhary2703-sudo/leetcodeProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
